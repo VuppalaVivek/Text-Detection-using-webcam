@@ -1,0 +1,11 @@
+#Byte-compiled / optimized / DLL files
+_pycache_/
+.py[cod]
+.pyo
+
+# Images and output files
+.jpg
+.png
+
+# Environment
+.env
